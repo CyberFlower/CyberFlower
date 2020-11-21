@@ -15,8 +15,8 @@ Newbie Software Engineer.
 - 2020 ICPC Seoul Regional 14th place
 - 2020 SCPC 5th place
 
-- Codeforces: ![TOPCYBERFLOWER](https://codeforces.com/profile/TOPCYBERFLOWER)
-- BOJ: ![windflower](https://www.acmicpc.net/user/windflower)
+- Codeforces: [TOPCYBERFLOWER](https://codeforces.com/profile/TOPCYBERFLOWER)
+- BOJ: [windflower](https://www.acmicpc.net/user/windflower)
 
 <!--
 **CyberFlower/CyberFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
