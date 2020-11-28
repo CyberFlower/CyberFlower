@@ -16,8 +16,9 @@ Interested in Algorithm, Data Structure, Embeded System, AI, Network, etc...
 - 2019, 2020 SKH Algorithm Camp Manager 
 - 2020 Korea Univ. Alkor (Algorithm & Problem Solving) President
 
-- 2020 ICPC Seoul Regional 14th place
+- 2020 ICPC Seoul Regional 14th place (Team Ozone)
 - 2020 SCPC 5th place
+- 2020 KCPC(Korea univ Programming Competition) 3rd place
 
 ### Handles
 
