@@ -18,7 +18,7 @@ Interested in Algorithm, Data Structure, Embeded System, AI, Network, etc...
 
 - 2020 ICPC Seoul Regional 14th place (Team Ozone)
 - 2020 SCPC 5th place
-- 2020 KCPC(Korea univ Programming Competition) 3rd place
+- 2020 Korea Univ. Collegiate Programming Contest 3rd place
 
 ### Handles
 
