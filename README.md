@@ -22,7 +22,7 @@ Interested in Algorithm, Data Structure, Embeded System, AI, Network, etc...
 - 2020 SCPC 5th place
 - 2020 Korea Univ. Collegiate Programming Contest 3rd place
 
-$nbsp;
+&nbsp;
 - 2021.02~ Software Engineer at Samsung Electronics Network Division
 
 ### Handles
