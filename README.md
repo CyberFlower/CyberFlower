@@ -16,13 +16,11 @@ Interested in Algorithm, Data Structure, Embeded System, AI, Network, etc...
 - 2019, 2020 SKH Algorithm Camp Manager ([2020 SKH URL](http://codeforces.com/group/q4aFsZ9De9/blog))
 - 2020 Korea Univ. Alkor (Algorithm & Problem Solving) President
 - 2020 UCPC problem setter ([2020 UCPC URL](https://www.acmicpc.net/category/detail/2272))
-
-
+\
 - 2020 ICPC Seoul Regional 14th place (Team Ozone)
 - 2020 SCPC 5th place
 - 2020 Korea Univ. Collegiate Programming Contest 3rd place
-
-
+\
 - 2021.02~ Software Engineer at Samsung Electronics Network Division
 
 
