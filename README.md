@@ -13,7 +13,7 @@ Interested in Algorithm, Data Structure, Embeded System, AI, Network, etc...
 ### Careers
 
 - 2019 Korea Univ. Collegiate Programming Contest Manager ([2019 KCPC URL](http://codeforces.com/group/YxujPqBpFr/blog))
-- 2019, 2020 SKH Algorithm Camp Manager ([2019_SKH_PROBLEM])(https://www.acmicpc.net/problem/17399)([2020 SKH URL](http://codeforces.com/group/q4aFsZ9De9/blog))
+- 2019, 2020 SKH Algorithm Camp Manager ([2019_SKH_PROBLEM])(https://www.acmicpc.net/problem/17399)([2020 SKH URL])(http://codeforces.com/group/q4aFsZ9De9/blog))
 - 2020 Korea Univ. Alkor (Algorithm & Problem Solving) President
 - 2020 UCPC problem setter ([2020 UCPC URL](https://www.acmicpc.net/category/detail/2272))
 
